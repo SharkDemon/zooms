@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/SharkDemon/zooms.svg)](http://hits.dwyl.io/SharkDemon/zooms)
+[![HitCount](http://hits.dwyl.com/SharkDemon/zooms.svg)](http://hits.dwyl.com/SharkDemon/zooms)
 
 # zooms
 
